@@ -1,0 +1,5 @@
+//include ':mylibrary'
+include ':dynamicRegister'
+include ':staticRegister'
+include ':app'
+rootProject.name = "RegisterJni"
